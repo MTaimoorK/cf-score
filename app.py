@@ -5,9 +5,9 @@ import joblib
 import shap
 
 # Load pre-trained model, scaler, and encoders
-model = joblib.load('..model/model.pkl')
-encoders = joblib.load('..model/encoder.pkl')
-explainer = joblib.load('..model/explainer.pkl')
+model = joblib.load('model/model.pkl')
+encoders = joblib.load('model/encoder.pkl')
+explainer = joblib.load('model/explainer.pkl')
 
 # Define weights for the columns
 weights = {
