@@ -1,0 +1,351 @@
+Sr#,Grade,Gender,Hosteler/Daily-Scholar,Department ,CF Washing,CF for Iron,CF for Meat,CF of Rice,CF of Vegetables,CF of Milk,CF of Fruit,CF of Air Conditioner,CF of Hair Dryer,CF of Laptop,CF of Paper,Total CF For Transportation
+1,Under-graduate,Female,Hosteler,Mechanical ,23.4,284.7,0,31.2,43.8625,40.2325,3.9,0,0,68.328,6,0
+2,Under-graduate,Male,Hosteler,Computer Systems,23.4,142.35,188.8875,288,18.85,242.725,54.75,0,0,170.82,260,6954.75
+3,Under-graduate,Male,Hosteler,Electrical ,23.4,60.84,80.73,62.4,264.625,3.952,3.9,0,0,34.164,85,0
+4,Under-graduate,Male,Hosteler,Mining ,23.4,284.7,4665.6,219,75.4,242.725,18.15,4270.5,56.4622734,170.82,18.25,0
+5,Under-graduate,Male,Hosteler,Mechatronics,23.4,81.12,26.91,584,793.875,121.3625,3.9,5124.6,80.6617734,136.656,85,0
+6,Under-graduate,Male,Hosteler,Architecture,142.35,60.84,0,62.4,793.875,242.725,3.9,0,0,68.328,3,0
+7,Under-graduate,Female,Hosteler,Electronics ,142.35,81.12,258.336,5.2,132.3125,110.96,18.15,0,0,68.328,130,0
+8,Under-graduate,Female,Hosteler,Biomedical,94.90000003,142.35,0,10.4,264.625,242.725,3.9,0,0,170.82,13,3497.4
+9,Under-graduate,Female,Hosteler,Architecture ,71.175,142.35,258.336,62.4,9.425,3.952,18.15,0,0,170.82,60,2797.92
+10,Under-graduate,Female,Hosteler,Computer Systems,47.45,60.84,1192.32,31.2,18.85,3.952,3.9,0,0,34.164,42.5,0
+11,Under-graduate,Male,Hosteler,Electronics ,142.35,60.84,258.336,62.4,43.8625,110.96,3.9,0,0,68.328,5.2,0
+12,Under-graduate,Male,Hosteler,Computer Systems,47.45,142.35,0,219,529.25,3.952,54.75,4270.5,6.18775248,34.164,52,191.88
+13,Under-graduate,Female,Hosteler,Computer Science,47.45,60.84,86.112,62.4,9.425,18.392,3.9,5124.6,0,34.164,5.2,3095.4
+14,Under-graduate,Male,Hosteler,CELL,142.35,284.7,258.336,62.4,132.3125,3.952,15.6,0,0,34.164,3,699.48
+15,Under-graduate,Female,Hosteler,Mechatronics,56.94,142.35,604.44,219,56.55,55.48,15.6,0,0,34.164,13,53.6
+16,Under-graduate,Female,Hosteler,Telecommunication ,94.9,284.7,604.44,93.6,264.625,110.96,15.6,0,0,68.328,60,8844
+17,Under-graduate,Male,Hosteler,Telecommunications ,142.35,60.84,0,73,132.3125,121.3625,54.75,2562.3,24.1995,68.328,2.6,5574.4
+18,Under-graduate,Female,Hosteler,Computer Science,142.35,142.35,0,62.4,9.425,110.96,3.9,0,0,170.82,8.5,0
+19,Under-graduate,Female,Hosteler,BBA,40.67142857,142.35,0,93.6,87.725,121.3625,3.9,0,0,34.164,0.85,0
+20,Under-graduate,Female,Hosteler,Biomedical,56.94,142.35,48.438,62.4,43.8625,18.392,3.9,0,0,136.656,13,0
+21,Under-graduate,Male,Hosteler,Petroleum & Gas Engineering,40.67142857,60.84,0,432,264.625,40.2325,54.75,427.05,16.08788064,68.328,91.25,0
+22,Under-graduate,Female,Hosteler,CELL,71.175,142.35,0,10.4,132.3125,3.952,3.9,0,0,34.164,26,3497.4
+23,Under-graduate,Female,Hosteler,Computer Science,56.94,142.35,258.336,31.2,43.8625,3.952,54.75,0,0,68.328,26,0
+24,Under-graduate,Male,Hosteler,BBA,71.175,60.84,258.336,62.4,43.8625,18.392,3.9,0,0,34.164,0.85,11055
+25,Under-graduate,Male,Hosteler,Electrical ,40.67142857,60.84,1458,62.4,132.3125,110.96,109.5,0,0,34.164,18.25,1252.8
+26,Under-graduate,Male,Hosteler,Electrical ,142.35,142.35,0,146,132.3125,3.952,54.75,0,0,34.164,85,0
+27,Under-graduate,Male,Hosteler,Chemical ,94.9,60.84,258.336,93.6,43.8625,55.48,3.9,0,0,68.328,3,0
+28,Under-graduate,Male,Hosteler,Chemical ,94.9,60.84,604.44,73,9.425,8.645,15.6,0,0,34.164,3,0
+29,Under-graduate,Male,Hosteler,Civil ,142.35,142.35,258.336,31.2,18.85,520.125,3.9,0,0,34.164,30,0
+30,Under-graduate,Male,Hosteler,Computer Systems,142.35,162.24,48.438,41.6,87.725,118.56,15.6,427.05,4.33135248,68.328,60,0
+31,Under-graduate,Male,Hosteler,Civil ,56.94,101.4,0,249.6,529.25,3.952,3.9,0,0,136.656,42.5,2797.92
+32,Under-graduate,Male,Hosteler,Electrical ,47.45,40.56,604.44,31.2,132.3125,3.952,3.9,0,0,68.328,60,0
+33,Under-graduate,Female,Daily Scholar,Architecture,0,0,86.112,10.4,9.425,3.952,3.9,0,0,34.164,260,20984.4
+34,Under-graduate,Female,Daily Scholar,Architecture ,0,0,223.56,5.2,132.3125,55.48,15.6,0,24.1995,68.328,5.2,0
+35,Under-graduate,Female,Daily Scholar,Architecture ,0,0,0,10.4,18.85,3.952,3.9,0,0,34.164,260,20984.4
+36,Under-graduate,Female,Daily Scholar,BBA,0,0,258.336,10.4,9.425,55.48,3.9,0,0,34.164,3,3497.4
+37,Under-graduate,Female,Daily Scholar,BBA,0,0,48.438,20.8,87.725,520.125,54.75,0,0,68.328,30,1049.22
+38,Under-graduate,Female,Daily Scholar,BBA,0,0,0,10.4,43.8625,34.58,3.9,0,0,34.164,0.6,5595.84
+39,Under-graduate,Male,Daily Scholar,BBA,0,0,48.438,62.4,43.8625,110.96,18.15,427.05,0,68.328,26,642.06
+40,Under-graduate,Female,Daily Scholar,BBA,0,0,48.438,5.2,9.425,18.392,3.9,4270.5,0,136.656,26,17487
+41,Under-graduate,Male,Daily Scholar,BBA,0,0,258.336,20.8,43.8625,3.952,18.15,0,0,34.164,6,73.8
+42,Under-graduate,Male,Daily Scholar,BBA,0,0,16.146,10.4,43.8625,3.952,3.9,0,0,34.164,0.85,642.06
+43,Under-graduate,Female,Daily Scholar,BBA,0,0,1192.32,10.4,264.625,55.48,3.9,2562.3,0,68.328,0.85,46095.732
+44,Under-graduate,Female,Daily Scholar,BBA,0,0,258.336,20.8,9.425,3.952,3.9,0,0,68.328,3,6994.8
+45,Under-graduate,Female,Daily Scholar,BBA,0,0,258.336,10.4,9.425,3.952,3.9,2562.3,0,34.164,26,12590.64
+46,Under-graduate,Male,Daily Scholar,BBA,0,0,0,5.2,9.425,3.952,3.9,0,0,136.656,3,13989.6
+47,Under-graduate,Female,Daily Scholar,BBA,0,0,0,31.2,132.3125,55.48,3.9,0,0,34.164,2.6,6994.8
+48,Under-graduate,Male,Daily Scholar,BBA,0,0,86.112,219,9.425,3.952,3.9,0,0,34.164,3,963.09
+49,Under-graduate,Female,Daily Scholar,BBA,0,0,113.3325,31.2,396.9375,121.3625,54.75,0,11.49154032,68.328,91.25,11055
+50,Under-graduate,Female,Daily Scholar,BBA,0,0,86.112,20.8,9.425,3.952,3.9,0,0,68.328,0.85,10492.2
+51,Under-graduate,Female,Daily Scholar,Biomedical,0,0,0,432,264.625,40.2325,54.75,427.05,6.8952,68.328,912.5,17487
+52,Under-graduate,Male,Daily Scholar,Biomedical,0,0,0,31.2,18.85,40.2325,15.6,427.05,0,34.164,26,28300.8
+53,Under-graduate,Male,Daily Scholar,Biomedical,0,0,604.44,10.4,18.85,3.952,3.9,0,0,68.328,6,11891.16
+54,Under-graduate,Female,Daily Scholar,Biomedical,0,0,0,10.4,132.3125,260.0625,54.75,0,0,34.164,26,1605.15
+55,Under-graduate,Female,Daily Scholar,Biomedical,0,0,0,5.2,9.425,3.952,3.9,0,0,68.328,60,6994.8
+56,Under-graduate,Female,Daily Scholar,Biomedical,0,0,258.336,73,9.425,3.952,3.9,0,0,68.328,26,38471.4
+57,Under-graduate,Female,Daily Scholar,Biomedical,0,0,113.3325,5.2,9.425,3.952,3.9,2562.3,0,34.164,130,17487
+58,Under-graduate,Male,Daily Scholar,Biomedical,0,0,113.3325,73,18.85,520.125,18.15,0,1.8564,68.328,260,17487
+59,Under-graduate,Male,Daily Scholar,Biomedical,0,0,80.73,146,18.85,137.94,18.15,0,0,34.164,6,1014.75
+60,Under-graduate,Female,Daily Scholar,Biomedical,0,0,0,31.2,132.3125,121.3625,18.15,0,0,68.328,42.5,18885.96
+61,Under-graduate,Female,Daily Scholar,CELL,0,0,0,5.2,9.425,3.952,3.9,4270.5,0,34.164,6,12528
+62,Under-graduate,Male,Daily Scholar,CELL,0,0,0,62.4,132.3125,242.725,3.9,0,0,136.656,3,52461
+63,Under-graduate,Female,Daily Scholar,CELL,0,0,86.112,10.4,9.425,40.2325,3.9,2562.3,0,34.164,26,13989.6
+64,Under-graduate,Female,Daily Scholar,CELL,0,0,86.112,5.2,9.425,8.645,3.9,4270.5,0,34.164,3,2505.6
+65,Under-graduate,Female,Daily Scholar,CELL,0,0,258.336,5.2,43.8625,3.952,3.9,0,0,34.164,0.6,46165.68
+66,Under-graduate,Female,Daily Scholar,CELL,0,0,258.336,5.2,9.425,55.48,15.6,5124.6,0,68.328,52,15388.56
+67,Under-graduate,Female,Daily Scholar,CELL,0,0,86.112,10.4,37.7,110.96,3.9,0,0,34.164,0.85,16088.04
+68,Under-graduate,Male,Daily Scholar,CELL,0,0,86.112,10.4,18.85,3.952,15.6,427.05,0,136.656,0.85,48963.6
+69,Under-graduate,Female,Daily Scholar,CELL,0,0,0,5.2,87.725,110.96,15.6,0,0,34.164,0.85,13989.6
+70,Under-graduate,Male,Daily Scholar,CELL,0,0,86.112,10.4,18.85,3.952,3.9,427.05,0,68.328,4.25,55958.4
+71,Under-graduate,Female,Daily Scholar,CELL,0,0,0,62.4,264.625,3.952,3.9,0,0,34.164,91.25,6994.8
+72,Under-graduate,Female,Daily Scholar,CELL,0,0,0,10.4,18.85,55.48,3.9,4270.5,0,34.164,26,27979.2
+73,Under-graduate,Male,Daily Scholar,Chemical ,0,0,604.44,5.2,18.85,3.952,109.5,0,0,68.328,130,20984.4
+74,Under-graduate,Male,Daily Scholar,Chemical ,0,0,0,73,132.3125,110.96,3.9,4270.5,6.18775248,136.656,52,4422
+75,Under-graduate,Male,Daily Scholar,Chemical ,0,0,48.438,10.4,37.7,3.952,3.9,2562.3,0,34.164,60,8844
+76,Under-graduate,Male,Daily Scholar,Chemical ,0,0,223.56,146,9.425,3.952,3.9,427.05,0,34.164,0.6,12590.64
+77,Under-graduate,Male,Daily Scholar,Chemical ,0,0,0,31.2,9.425,18.392,18.15,0,0,34.164,26,11191.68
+78,Under-graduate,Male,Daily Scholar,Chemical ,0,0,0,10.4,87.725,121.3625,54.75,427.05,0,34.164,4.25,17487
+79,Under-graduate,Female,Daily Scholar,Chemical ,0,0,189.54,31.2,131.5875,260.0625,109.5,2562.3,8.04394032,68.328,3,0
+80,Under-graduate,Male,Daily Scholar,Chemical ,0,0,0,62.4,87.725,121.3625,54.75,427.05,16.08788064,136.656,26,17487
+81,Under-graduate,Male,Daily Scholar,Chemical ,0,0,0,15.6,18.85,3.952,15.6,0,0,34.164,0.85,0
+82,Under-graduate,Male,Daily Scholar,Chemical ,0,0,1010.88,20.8,43.8625,40.2325,18.15,0,0,68.328,13,0
+83,Under-graduate,Male,Daily Scholar,Chemical ,0,0,604.44,62.4,9.425,242.725,3.9,2562.3,0,34.164,26,10648.8
+84,Under-graduate,Male,Daily Scholar,Chemical ,0,0,0,31.2,87.725,3.952,3.9,0,0,34.164,0.85,17487
+85,Under-graduate,Male,Daily Scholar,Civil ,0,0,86.112,62.4,87.725,40.2325,18.15,427.05,16.08788064,68.328,26,405.9
+86,Under-graduate,Male,Daily Scholar,Civil ,0,0,113.3325,31.2,264.625,242.725,54.75,0,0,34.164,8.5,7516.8
+87,Under-graduate,Male,Daily Scholar,Civil ,0,0,258.336,31.2,132.3125,18.392,15.6,0,0,68.328,0.85,9396
+88,Under-graduate,Male,Daily Scholar,Civil ,0,0,258.336,31.2,43.8625,3.952,3.9,0,0,34.164,0.6,16088.04
+89,Under-graduate,Male,Daily Scholar,Civil ,0,0,86.112,5.2,9.425,3.952,3.9,0,0,34.164,6,18792
+90,Under-graduate,Male,Daily Scholar,Civil ,0,0,0,10.4,264.625,110.96,109.5,0,24.1995,34.164,18.25,0
+91,Under-graduate,Male,Daily Scholar,Civil ,0,0,16.146,10.4,43.8625,3.952,15.6,0,0,34.164,6,7128
+92,Under-graduate,Male,Daily Scholar,Civil ,0,0,0,10.4,18.85,15.808,3.9,0,0,34.164,30,4752
+93,Under-graduate,Male,Daily Scholar,Civil ,0,0,48.438,62.4,87.725,40.2325,18.15,0,0,68.328,26,0
+94,Under-graduate,Male,Daily Scholar,Civil ,0,0,63.18,83.2,529.25,29.64,54.75,0,4.33135248,68.328,91.25,0
+95,Under-graduate,Male,Daily Scholar,Civil ,0,0,223.56,144,132.3125,121.3625,54.75,427.05,0,68.328,18.25,12240.9
+96,Under-graduate,Male,Daily Scholar,Civil ,0,0,0,584,264.625,86.2125,54.75,0,0,34.164,4.25,0
+97,Under-graduate,Male,Daily Scholar,Computer Science,0,0,86.112,10.4,9.425,3.952,3.9,0,0,170.82,130,20984.4
+98,Under-graduate,Male,Daily Scholar,Computer Science,0,0,258.336,31.2,9.425,55.48,3.9,0,0,170.82,260,22383.36
+99,Under-graduate,Male,Daily Scholar,Computer Science,0,0,80.73,73,132.3125,55.48,3.9,4270.5,0,170.82,6,1284.12
+100,Under-graduate,Female,Daily Scholar,Computer Science,0,0,86.112,5.2,9.425,18.392,18.15,2562.3,0,68.328,60,10492.2
+101,Under-graduate,Female,Daily Scholar,Computer Science,0,0,258.336,5.2,132.3125,3.952,15.6,0,0,136.656,13,34974
+102,Under-graduate,Female,Daily Scholar,Computer Science,0,0,48.438,10.4,37.7,15.808,15.6,0,0,170.82,26,1768.8
+103,Under-graduate,Female,Daily Scholar,Computer Science,0,0,48.438,20.8,37.7,15.808,15.6,0,0,136.656,42.5,6994.8
+104,Under-graduate,Female,Daily Scholar,Computer Science,0,0,0,5.2,9.425,3.952,3.9,0,0,34.164,8.5,6994.8
+105,Under-graduate,Female,Daily Scholar,Computer Science,0,0,0,15.6,56.55,40.2325,18.15,0,0,34.164,0.85,15660
+106,Under-graduate,Female,Daily Scholar,Computer Science,0,0,223.56,146,18.85,15.808,15.6,0,0,68.328,26,17487
+107,Under-graduate,Male,Daily Scholar,Computer Science,0,0,48.438,31.2,43.8625,3.952,18.15,2562.3,0,68.328,26,10492.2
+108,Under-graduate,Male,Daily Scholar,Computer Science,0,0,16.146,10.4,87.725,3.952,3.9,427.05,0,136.656,130,8393.76
+109,Under-graduate,Male,Daily Scholar,Computer Science,0,0,0,5.2,9.425,3.952,3.9,0,0,68.328,42.5,10492.2
+110,Under-graduate,Female,Daily Scholar,Computer Science,0,0,16.146,31.2,87.725,3.952,54.75,2562.3,0,68.328,8.5,39170.88
+111,Under-graduate,Female,Daily Scholar,Computer Science,0,0,0,31.2,264.625,86.2125,54.75,0,0,136.656,8.5,1876
+112,Under-graduate,Male,Daily Scholar,Computer Science,0,0,48.438,93.6,43.8625,260.0625,15.6,2562.3,0,68.328,52,13989.6
+113,Under-graduate,Male,Daily Scholar,Computer Science,0,0,0,93.6,9.425,40.2325,54.75,2562.3,3.4476,68.328,60,27979.2
+114,Under-graduate,Male,Daily Scholar,Computer Science,0,0,258.336,20.8,43.8625,86.2125,18.15,0,0,68.328,130,1605.15
+115,Under-graduate,Male,Daily Scholar,Computer Science,0,0,0,10.4,43.8625,3.952,3.9,0,0,136.656,30,1605.15
+116,Under-graduate,Male,Daily Scholar,Computer Science,0,0,0,5.2,9.425,3.952,3.9,0,0,170.82,0.6,34974
+117,Under-graduate,Male,Daily Scholar,Computer Science,0,0,86.112,20.8,529.25,520.125,3.9,0,0,136.656,26,6994.8
+118,Under-graduate,Male,Daily Scholar,Computer Science,0,0,2365.2,73,264.625,55.48,54.75,5124.6,16.08788064,136.656,91.25,642.06
+119,Under-graduate,Male,Daily Scholar,Computer Science,0,0,1458,15.6,75.4,55.48,18.15,4270.5,22.98308064,68.328,13,963.09
+120,Under-graduate,Female,Daily Scholar,Computer Science,0,0,48.438,20.8,18.85,15.808,15.6,0,0,136.656,4.25,10492.2
+121,Under-graduate,Female,Daily Scholar,Computer Science,0,0,0,5.2,28.275,3.952,18.15,0,0,68.328,4.25,27979.2
+122,Under-graduate,Female,Daily Scholar,Computer Systems,0,0,86.112,10.4,9.425,3.952,54.75,0,0,68.328,0.85,41968.8
+123,Under-graduate,Female,Daily Scholar,Computer Systems,0,0,258.336,31.2,18.85,18.392,3.9,427.05,0,136.656,26,418.08
+124,Under-graduate,Male,Daily Scholar,Computer Systems,0,0,80.73,20.8,43.8625,18.392,3.9,0,0,34.164,30,17487
+125,Under-graduate,Male,Daily Scholar,Computer Systems,0,0,258.336,62.4,87.725,3.952,18.15,0,0,136.656,6,13989.6
+126,Under-graduate,Male,Daily Scholar,Computer Systems,0,0,258.336,62.4,43.8625,55.48,3.9,0,0,136.656,42.5,17487
+127,Under-graduate,Female,Daily Scholar,Computer Systems,0,0,48.438,10.4,9.425,15.808,3.9,5124.6,0,136.656,30,17487
+128,Under-graduate,Female,Daily Scholar,Computer Systems,0,0,0,5.2,9.425,3.952,3.9,0,0,34.164,8.5,12590.64
+129,Under-graduate,Female,Daily Scholar,Computer Systems,0,0,86.112,10.4,43.8625,3.952,3.9,0,0,136.656,130,13989.6
+130,Under-graduate,Male,Daily Scholar,Computer Systems,0,0,258.336,31.2,43.8625,18.392,3.9,5124.6,0,68.328,260,9082.8
+131,Under-graduate,Male,Daily Scholar,Computer Systems,0,0,258.336,20.8,9.425,86.2125,3.9,0,0,34.164,130,4752
+132,Under-graduate,Male,Daily Scholar,Computer Systems,0,0,48.438,5.2,9.425,15.808,3.9,0,0,136.656,30,17487
+133,Under-graduate,Male,Daily Scholar,Computer Systems,0,0,604.44,5.2,9.425,15.808,3.9,2562.3,0,136.656,30,1605.15
+134,Under-graduate,Male,Daily Scholar,Electrical ,0,0,0,10.4,793.875,520.125,54.75,4270.5,6.8952,34.164,260,7516.8
+135,Under-graduate,Female,Daily Scholar,Electrical ,0,0,604.44,20.8,9.425,18.392,18.15,0,0,68.328,260,8393.76
+136,Under-graduate,Male,Daily Scholar,Electrical ,0,0,0,93.6,43.8625,110.96,15.6,0,0,68.328,260,9093.24
+137,Under-graduate,Female,Daily Scholar,Electrical ,0,0,86.112,5.2,9.425,18.392,3.9,0,0,34.164,520,1532.96
+138,Under-graduate,Male,Daily Scholar,Electrical ,0,0,0,62.4,43.8625,15.808,3.9,0,0,34.164,260,0
+139,Under-graduate,Male,Daily Scholar,Electrical ,0,0,16.146,10.4,9.425,3.952,3.9,0,0,34.164,260,9396
+140,Under-graduate,Male,Daily Scholar,Electrical ,0,0,0,20.8,28.275,29.64,3.9,0,0,170.82,60,13989.6
+141,Under-graduate,Male,Daily Scholar,Electrical ,0,0,258.336,10.4,43.8625,3.952,3.9,0,0,34.164,60,11275.2
+142,Under-graduate,Male,Daily Scholar,Electrical ,0,0,0,146,132.3125,121.3625,54.75,0,6.8952,68.328,2.6,13989.6
+143,Under-graduate,Male,Daily Scholar,Electrical ,0,0,0,62.4,43.8625,242.725,3.9,0,0,136.656,26,3132
+144,Under-graduate,Male,Daily Scholar,Electrical ,0,0,48.438,249.6,175.45,3.952,109.5,0,24.1995,170.82,85,3497.4
+145,Under-graduate,Female,Daily Scholar,Electrical ,0,0,0,10.4,9.425,18.392,3.9,4270.5,0,68.328,520,8143.2
+146,Under-graduate,Female,Daily Scholar,Electrical ,0,0,604.44,10.4,18.85,3.952,15.6,5124.6,0,68.328,30,20984.4
+147,Under-graduate,Male,Daily Scholar,Electrical ,0,0,113.3325,146,264.625,121.3625,54.75,0,0,34.164,520,22110
+148,Under-graduate,Male,Daily Scholar,Electrical ,0,0,48.438,31.2,43.8625,3.952,3.9,0,0,68.328,520,1605.15
+149,Under-graduate,Male,Daily Scholar,Electrical ,0,0,0,93.6,793.875,121.3625,54.75,4270.5,0,68.328,42.5,6264
+150,Under-graduate,Male,Daily Scholar,Electrical ,0,0,48.438,83.2,87.725,242.725,15.6,0,0,34.164,260,6994.8
+151,Under-graduate,Male,Daily Scholar,Electronics ,0,0,48.438,62.4,87.725,121.3625,54.75,0,0,68.328,520,12590.64
+152,Under-graduate,Female,Daily Scholar,Electronics ,0,0,0,10.4,18.85,3.952,3.9,427.05,0,34.164,260,160.515
+153,Under-graduate,Female,Daily Scholar,Electronics ,0,0,0,5.2,87.725,18.392,3.9,427.05,0,68.328,8.5,21823.776
+154,Under-graduate,Female,Daily Scholar,Electronics ,0,0,0,10.4,264.625,3.952,54.75,0,0,34.164,8.5,34974
+155,Under-graduate,Female,Daily Scholar,Electronics ,0,0,86.112,62.4,132.3125,55.48,18.15,4270.5,0,34.164,60,20984.4
+156,Under-graduate,Female,Daily Scholar,Electronics ,0,0,258.336,62.4,9.425,3.952,3.9,0,0,34.164,30,11891.16
+157,Under-graduate,Female,Daily Scholar,Electronics ,0,0,16.146,10.4,18.85,3.952,3.9,0,0,34.164,60,6994.8
+158,Under-graduate,Male,Daily Scholar,Electronics ,0,0,2365.2,288,43.8625,3.952,3.9,427.05,0,68.328,260,20984.4
+159,Under-graduate,Male,Daily Scholar,Electronics ,0,0,86.112,124.8,175.45,242.725,18.15,4270.5,0,136.656,520,13989.6
+160,Under-graduate,Male,Daily Scholar,Electronics ,0,0,604.44,10.4,132.3125,55.48,54.75,0,0,34.164,912.5,9093.24
+161,Under-graduate,Female,Daily Scholar,Electronics ,0,0,0,10.4,18.85,3.952,3.9,0,0,34.164,260,10492.2
+162,Under-graduate,Male,Daily Scholar,Electronics ,0,0,48.438,62.4,18.85,520.125,54.75,2562.3,0,34.164,130,13989.6
+163,Under-graduate,Female,Daily Scholar,Electronics ,0,0,86.112,5.2,9.425,3.952,3.9,427.05,0,34.164,130,0
+164,Masters,Female,Daily Scholar,Environmental Science,0,0,0,93.6,18.85,110.96,3.9,2562.3,0,68.328,30,6994.8
+165,Under-graduate,Male,Daily Scholar,Environmental Science,0,0,189.54,41.6,37.7,55.48,54.75,2562.3,0,136.656,2.6,5574.4
+166,Under-graduate,Male,Daily Scholar,Environmental Science,0,0,48.438,93.6,264.625,260.0625,15.6,2562.3,0,170.82,13,10492.2
+167,Under-graduate,Female,Daily Scholar,Environmental Science,0,0,189.54,62.4,131.5875,34.58,54.75,4270.5,8.04394032,68.328,52,17487
+168,Under-graduate,Male,Daily Scholar,Environmental Science,0,0,258.336,5.2,43.8625,3.952,3.9,2562.3,0,34.164,5.2,2797.92
+169,Under-graduate,Female,Daily Scholar,Environmental Science,0,0,604.44,31.2,18.85,3.952,54.75,2562.3,0,34.164,4.25,8393.76
+170,Under-graduate,Male,Daily Scholar,Environmental Science,0,0,0,10.4,43.8625,3.952,54.75,427.05,0,68.328,26,6994.8
+171,Under-graduate,Male,Daily Scholar,Environmental Science,0,0,26.91,41.6,56.55,242.725,15.6,2562.3,0,68.328,130,8393.76
+172,Under-graduate,Female,Daily Scholar,Environmental Science,0,0,258.336,5.2,9.425,15.808,3.9,2562.3,0,136.656,4.25,7920
+173,Under-graduate,Female,Daily Scholar,Environmental Science,0,0,86.112,62.4,18.85,3.952,3.9,427.05,0,136.656,0.6,3758.4
+174,Under-graduate,Male,Daily Scholar,Environmental Science,0,0,258.336,146,87.725,121.3625,54.75,2562.3,0,68.328,5.2,2787.2
+175,Under-graduate,Female,Daily Scholar,Environmental Science,0,0,258.336,93.6,18.85,110.96,3.9,2562.3,0,68.328,42.5,17487
+176,Under-graduate,Male,Daily Scholar,Environmental Science,0,0,1192.32,73,43.8625,3.952,18.15,427.05,0,34.164,26,12590.64
+177,Under-graduate,Female,Daily Scholar,Environmental Science,0,0,48.438,93.6,87.725,121.3625,18.15,427.05,0,136.656,5.2,13989.6
+178,Under-graduate,Female,Daily Scholar,Environmental Science,0,0,0,219,87.725,86.2125,3.9,0,0,34.164,42.5,10492.2
+179,Under-graduate,Female,Daily Scholar,Environmental Science,0,0,0,219,131.5875,40.2325,54.75,2562.3,8.04394032,68.328,26,0
+180,Under-graduate,Male,Daily Scholar,Industrial ,0,0,258.336,10.4,56.55,3.952,3.9,427.05,6.18775248,136.656,3,11191.68
+181,Under-graduate,Male,Daily Scholar,Mechanical,0,0,16.146,5.2,9.425,3.952,3.9,0,0,68.328,6,16787.52
+182,Under-graduate,Male,Daily Scholar,Mechanical ,0,0,86.112,10.4,9.425,3.952,3.9,0,0,68.328,4.25,5306.4
+183,Under-graduate,Male,Daily Scholar,Mechanical ,0,0,0,73,9.425,3.952,54.75,0,0,34.164,26,31476.6
+184,Under-graduate,Female,Daily Scholar,Mechanical ,0,0,258.336,5.2,529.25,3.952,15.6,0,0,68.328,520,1326.6
+185,Under-graduate,Male,Daily Scholar,Mechanical ,0,0,0,31.2,9.425,3.952,15.6,427.05,0,68.328,520,23082.84
+186,Under-graduate,Male,Daily Scholar,Mechanical ,0,0,86.112,15.6,18.85,3.952,3.9,0,0,68.328,5.2,13989.6
+187,Under-graduate,Male,Daily Scholar,Mechanical ,0,0,258.336,5.2,87.725,121.3625,18.15,0,0,68.328,26,1014.75
+188,Under-graduate,Male,Daily Scholar,Mechanical ,0,0,16.146,5.2,9.425,3.952,3.9,2562.3,0,68.328,6,11191.68
+189,Under-graduate,Male,Daily Scholar,Mechanical ,0,0,0,31.2,9.425,3.952,3.9,0,0,34.164,5.2,0
+190,Under-graduate,Male,Daily Scholar,Mechanical ,0,0,336.96,146,132.3125,3.952,3.9,0,0,34.164,260,11191.68
+191,Under-graduate,Male,Daily Scholar,Mechanical ,0,0,0,10.4,9.425,3.952,3.9,0,0,34.164,260,11191.68
+192,Under-graduate,Male,Daily Scholar,Mechanical ,0,0,1192.32,576,1058.5,74.1,54.75,0,0,68.328,85,10492.2
+193,Under-graduate,Male,Daily Scholar,Mechanical ,0,0,0,31.2,43.8625,34.58,18.15,0,0,34.164,30,17487
+194,Under-graduate,Male,Daily Scholar,Mechanical ,0,0,258.336,10.4,9.425,3.952,3.9,0,0,34.164,260,804
+195,Under-graduate,Male,Daily Scholar,Mechanical ,0,0,0,5.2,9.425,8.645,3.9,2562.3,0,136.656,130,20984.4
+196,Under-graduate,Male,Daily Scholar,Mechanical ,0,0,0,10.4,18.85,3.952,3.9,2562.3,0,34.164,260,442.2
+197,Under-graduate,Female,Daily Scholar,Mechatronics,0,0,0,10.4,9.425,3.952,3.9,0,0,68.328,6,17487
+198,Under-graduate,Male,Daily Scholar,Mechatronics,0,0,86.112,62.4,43.8625,40.2325,18.15,427.05,0,68.328,520,11191.68
+199,Under-graduate,Male,Daily Scholar,Mechatronics,0,0,0,62.4,87.725,40.2325,3.9,5124.6,0,34.164,260,13239.2
+200,Under-graduate,Male,Daily Scholar,Mechatronics,0,0,16.146,20.8,18.85,3.952,3.9,0,0,34.164,260,13266
+201,Under-graduate,Female,Daily Scholar,Mechatronics,0,0,0,10.4,132.3125,15.808,15.6,427.05,0,136.656,130,34974
+202,Under-graduate,Female,Daily Scholar,Mechatronics,0,0,0,31.2,9.425,3.952,3.9,0,0,68.328,3,17487
+203,Under-graduate,Female,Daily Scholar,Mechatronics,0,0,16.146,15.6,18.85,15.808,15.6,0,0,68.328,30,8393.76
+204,Under-graduate,Male,Daily Scholar,Mechatronics,0,0,16.146,10.4,9.425,3.952,3.9,427.05,0,68.328,130,5136.48
+205,Under-graduate,Male,Daily Scholar,Mechatronics,0,0,86.112,62.4,87.725,18.392,18.15,5124.6,0,68.328,26,11191.68
+206,Under-graduate,Male,Daily Scholar,Mechatronics,0,0,0,62.4,264.625,121.3625,3.9,2562.3,0,34.164,260,6264
+207,Under-graduate,Male,Daily Scholar,Mechatronics,0,0,0,10.4,43.8625,242.725,3.9,427.05,0,68.328,520,482.4
+208,Under-graduate,Male,Daily Scholar,Mechatronics,0,0,0,5.2,9.425,55.48,3.9,0,0,170.82,42.5,13989.6
+209,Under-graduate,Male,Daily Scholar,Mechatronics,0,0,0,5.2,9.425,15.808,3.9,0,0,34.164,6,2229.76
+210,Under-graduate,Female,Daily Scholar,Mechatronics,0,0,0,5.2,9.425,55.48,3.9,0,0,34.164,4.25,13989.6
+211,Under-graduate,Female,Daily Scholar,Mechatronics,0,0,0,5.2,9.425,55.48,3.9,0,0,34.164,4.25,17487
+212,Under-graduate,Male,Daily Scholar,Mechatronics,0,0,258.336,20.8,87.725,121.3625,3.9,0,0,34.164,130,5595.84
+213,Under-graduate,Male,Daily Scholar,Mechatronics,0,0,48.438,73,18.85,18.392,3.9,0,0,68.328,4.25,13989.6
+214,Under-graduate,Female,Daily Scholar,Mechatronics ,0,0,48.438,20.8,28.275,15.808,3.9,2562.3,0,136.656,260,34974
+215,Under-graduate,Female,Daily Scholar,Mechatronics ,0,0,258.336,10.4,43.8625,55.48,3.9,0,0,34.164,520,20984.4
+216,Under-graduate,Male,Daily Scholar,Mining,0,0,258.336,10.4,18.85,55.48,15.6,0,0,34.164,4.25,319.8
+217,Under-graduate,Male,Daily Scholar,Mining,0,0,604.44,146,264.625,55.48,54.75,0,0,34.164,0.85,18792
+218,Under-graduate,Male,Daily Scholar,Mining,0,0,113.3325,73,132.3125,55.48,54.75,0,0,34.164,6,3698.4
+219,Under-graduate,Male,Daily Scholar,Mining ,0,0,0,144,43.8625,242.725,109.5,4270.5,0,68.328,52,0
+220,Under-graduate,Male,Daily Scholar,Mining ,0,0,48.438,576,529.25,260.0625,54.75,427.05,0,34.164,13,0
+221,Under-graduate,Male,Daily Scholar,Mining ,0,0,258.336,62.4,9.425,520.125,3.9,0,0,34.164,6,69948
+222,Under-graduate,Male,Daily Scholar,Mining ,0,0,113.3325,219,793.875,3.952,15.6,427.05,56.4622734,34.164,26,22110
+223,Under-graduate,Male,Daily Scholar,Mining ,0,0,16.146,31.2,9.425,18.392,54.75,0,0,68.328,5.2,0
+224,Under-graduate,Male,Daily Scholar,Mining ,0,0,0,73,132.3125,15.808,54.75,0,24.1995,34.164,13,1014.75
+225,Under-graduate,Male,Daily Scholar,Mining ,0,0,258.336,31.2,9.425,3.952,54.75,0,0,34.164,0.6,319.8
+226,Under-graduate,Female,Daily Scholar,Mining ,0,0,0,10.4,9.425,3.952,3.9,0,0,34.164,0.85,24481.8
+227,Under-graduate,Male,Daily Scholar,Mining ,0,0,0,62.4,132.3125,34.58,3.9,4270.5,0,34.164,3,1605.15
+228,Under-graduate,Male,Daily Scholar,Mining ,0,0,258.336,31.2,43.8625,40.2325,15.6,0,0,34.164,130,6994.8
+229,Under-graduate,Male,Daily Scholar,Mining ,0,0,0,73,87.725,121.3625,54.75,0,1.8564,34.164,42.5,699.48
+230,Under-graduate,Male,Daily Scholar,Petroleum & Gas Engineering,0,0,0,432,264.625,34.58,18.15,0,16.08788064,34.164,26,10492.2
+231,Under-graduate,Male,Daily Scholar,Petroleum & Gas Engineering,0,0,258.336,62.4,9.425,121.3625,3.9,427.05,0,68.328,18.25,20984.4
+232,Under-graduate,Male,Daily Scholar,Petroleum & Gas Engineering,0,0,258.336,93.6,87.725,3.952,15.6,0,0,68.328,1825,5748.6
+233,Under-graduate,Male,Daily Scholar,Petroleum & Gas Engineering,0,0,16.146,10.4,9.425,18.392,3.9,0,0,68.328,13,1014.75
+234,Under-graduate,Male,Daily Scholar,Petroleum & Gas Engineering,0,0,86.112,10.4,43.8625,3.952,3.9,0,0,34.164,26,13989.6
+235,Under-graduate,Male,Daily Scholar,Petroleum & Gas Engineering,0,0,0,5.2,43.8625,8.645,3.9,0,0,34.164,520,10170.6
+236,Under-graduate,Male,Daily Scholar,Software,0,0,258.336,31.2,9.425,121.3625,3.9,0,0,136.656,3,24481.8
+237,Under-graduate,Male,Daily Scholar,Software,0,0,258.336,62.4,132.3125,260.0625,3.9,0,0,136.656,26,0
+238,Under-graduate,Male,Daily Scholar,Software,0,0,1010.88,31.2,43.8625,260.0625,3.9,4270.5,0,136.656,6,24481.8
+239,Under-graduate,Female,Daily Scholar,Telecommunication ,0,0,258.336,31.2,87.725,86.2125,18.15,427.05,0,68.328,260,13989.6
+240,Under-graduate,Male,Daily Scholar,Telecommunications ,0,0,258.336,5.2,43.8625,40.2325,15.6,427.05,0,68.328,26,7959.6
+241,Under-graduate,Female,Daily Scholar,Telecommunications ,0,0,443.475,10.4,9.425,3.952,3.9,0,0,34.164,520,11331.576
+242,Under-graduate,Male,Daily Scholar,Telecommunications ,0,0,113.3325,31.2,43.8625,3.952,3.9,427.05,0,136.656,260,10170.6
+243,Under-graduate,Male,Daily Scholar,Telecommunications ,0,0,48.438,10.4,18.85,40.2325,18.15,427.05,0,136.656,26,319.8
+244,Under-graduate,Male,Daily Scholar,Telecommunications ,0,0,0,5.2,132.3125,3.952,3.9,4270.5,0,136.656,8.5,10492.2
+245,Under-graduate,Female,Daily Scholar,Telecommunications ,0,0,0,5.2,9.425,3.952,3.9,0,0,34.164,520,13989.6
+246,Under-graduate,Male,Daily Scholar,Telecommunications ,0,0,113.3325,10.4,43.8625,55.48,3.9,0,0,68.328,26,41968.8
+247,Under-graduate,Female,Daily Scholar,Telecommunications ,0,0,604.44,10.4,9.425,121.3625,54.75,0,0,136.656,8.5,34974
+248,Under-graduate,Male,Daily Scholar,Telecommunications ,0,0,258.336,62.4,396.9375,3.952,3.9,0,0,68.328,52,0
+249,Under-graduate,Male,Daily Scholar,Telecommunications ,0,0,26.91,10.4,87.725,3.952,3.9,0,0,136.656,13,16088.04
+250,Under-graduate,Female,Daily Scholar,Telecommunications ,0,0,258.336,20.8,37.7,3.952,3.9,4270.5,0,136.656,260,10492.2
+251,Under-graduate,Male,Daily Scholar,Telecommunications ,0,0,86.112,62.4,264.625,3.952,3.9,0,0,68.328,130,4422
+252,Under-graduate,Female,Daily Scholar,Telecommunications ,0,0,0,31.2,264.625,121.3625,3.9,0,0,34.164,520,963.09
+253,Under-graduate,Male,Daily Scholar,Telecommunications ,0,0,0,5.2,9.425,3.952,15.6,4270.5,6.8952,68.328,26,13266
+254,Under-graduate,Female,Daily Scholar,Textile,0,0,113.3325,146,9.425,29.64,3.9,0,0,34.164,52,1286.4
+255,Under-graduate,Male,Daily Scholar,Textile,0,0,86.112,62.4,87.725,18.392,3.9,0,0,34.164,6,13989.6
+256,Under-graduate,Female,Daily Scholar,Textile,0,0,0,10.4,56.55,55.48,54.75,427.05,0,34.164,13,10492.2
+257,Under-graduate,Female,Daily Scholar,Textile,0,0,604.44,20.8,37.7,3.952,15.6,0,0,68.328,0.6,13989.6
+258,Under-graduate,Male,Hosteler,Textile,40.67142857,81.12,0,584,1058.5,121.3625,18.15,0,0,68.328,26,1398.96
+259,Under-graduate,Male,Hosteler,Electronics ,40.67142857,142.35,0,93.6,43.8625,55.48,15.6,427.05,0,34.164,42.5,3497.4
+260,Under-graduate,Female,Hosteler,BBA,40.67142857,142.35,48.438,93.6,264.625,18.392,15.6,0,0,34.164,4.25,0
+261,Under-graduate,Male,Hosteler,Computer Science,40.67142857,142.35,604.44,146,9.425,110.96,109.5,0,0,34.164,42.5,0
+262,Under-graduate,Male,Hosteler,Computer Science,40.67142857,142.35,604.44,73,132.3125,121.3625,3.9,0,0,68.328,0.6,0
+263,Under-graduate,Female,Hosteler,Telecommunication,40.67142857,142.35,86.112,288,529.25,86.2125,18.15,427.05,24.1995,136.656,26,0
+264,Under-graduate,Female,Hosteler,Software,40.67142857,142.35,223.56,146,87.725,520.125,15.6,427.05,0,34.164,3,884.4
+265,Under-graduate,Female,Hosteler,Architecture ,40.67142857,142.35,0,20.8,793.875,3.952,3.9,0,0,170.82,52,1398.96
+266,Under-graduate,Female,Hosteler,Biomedical,40.67142857,40.56,0,73,264.625,3.952,3.9,427.05,3.4476,68.328,5.2,0
+267,Under-graduate,Female,Hosteler,Electronics ,40.67142857,40.56,0,144,9.425,3.952,3.9,0,0,34.164,60,0
+268,Under-graduate,Female,Hosteler,Biomedical,40.67142857,284.7,604.44,73,264.625,3.952,3.9,427.05,0,136.656,26,0
+269,Under-graduate,Female,Hosteler,Civil ,40.67142857,142.35,604.44,31.2,132.3125,3.952,3.9,0,0,68.328,26,1326.6
+270,Under-graduate,Female,Hosteler,Architecture ,40.67142857,142.35,258.336,31.2,132.3125,242.725,54.75,0,16.08788064,170.82,520,2098.44
+271,Under-graduate,Female,Hosteler,Computer Systems,40.67142857,142.35,604.44,144,264.625,110.96,54.75,0,0,136.656,130,2098.44
+272,Under-graduate,Female,Hosteler,Chemical ,40.67142857,142.35,0,31.2,9.425,3.952,54.75,5124.6,0,170.82,30,0
+273,Under-graduate,Male,Hosteler,Computer Systems,40.67142857,142.35,86.112,5.2,132.3125,3.952,3.9,0,0,34.164,13,2098.44
+274,Under-graduate,Male,Hosteler,Petroleum & Gas Engineering,40.67142857,202.8,48.438,93.6,43.8625,55.48,3.9,0,0,34.164,260,0
+275,Under-graduate,Female,Hosteler,Computer Science,40.67142857,142.35,0,62.4,87.725,55.48,18.15,0,0,68.328,260,804
+276,Under-graduate,Female,Hosteler,Computer Science,40.67142857,142.35,0,292,396.9375,55.48,54.75,2562.3,80.6617734,68.328,91.25,3497.4
+277,Under-graduate,Female,Hosteler,Biomedical,40.67142857,284.7,0,62.4,132.3125,110.96,109.5,0,0,34.164,130,0
+278,Under-graduate,Female,Hosteler,Biomedical,40.67142857,142.35,0,62.4,264.625,55.48,54.75,0,0,68.328,260,536
+279,Under-graduate,Female,Hosteler,Mechatronics ,40.67142857,284.7,1192.32,15.6,264.625,29.64,3.9,0,0,68.328,0.85,0
+280,Under-graduate,Female,Hosteler,Computer Systems,40.67142857,142.35,604.44,31.2,43.8625,15.808,15.6,2562.3,0,68.328,60,1768.8
+281,Under-graduate,Female,Hosteler,Telecommunications ,40.67142857,142.35,0,73,18.85,55.48,54.75,0,6.18775248,136.656,18.25,0
+282,Under-graduate,Female,Hosteler,Textile,40.67142857,142.35,113.3325,5.2,264.625,3.952,3.9,0,0,34.164,60,3497.4
+283,Under-graduate,Female,Hosteler,Electronics ,40.67142857,142.35,113.3325,144,9.425,3.952,18.15,0,0,34.164,520,0
+284,Under-graduate,Female,Hosteler,Textile,40.67142857,142.35,0,5.2,264.625,3.952,3.9,0,0,34.164,260,2797.92
+285,Under-graduate,Male,Hosteler,Civil ,40.67142857,81.12,63.18,62.4,87.725,40.2325,3.9,0,0,34.164,26,9286.2
+286,Under-graduate,Male,Hosteler,BBA,40.67142857,142.35,0,20.8,132.3125,242.725,15.6,2562.3,0,34.164,3,642.06
+287,Under-graduate,Male,Hosteler,Mining ,40.67142857,40.56,0,31.2,43.8625,121.3625,109.5,0,24.1995,136.656,260,1393.6
+288,Under-graduate,Male,Hosteler,Mechatronics,40.67142857,40.56,604.44,146,132.3125,3.952,15.6,0,0,34.164,6,0
+289,Under-graduate,Male,Hosteler,Telecommunications ,40.67142857,142.35,0,124.8,264.625,3.952,3.9,0,0,136.656,52,0
+290,Under-graduate,Male,Hosteler,Petroleum & Gas Engineering,40.67142857,121.68,0,146,396.9375,121.3625,54.75,427.05,16.08788064,68.328,13,0
+291,Under-graduate,Male,Hosteler,Mining,40.67142857,142.35,0,10.4,264.625,3.952,3.9,0,0,68.328,4.25,0
+292,Under-graduate,Male,Hosteler,Telecommunications ,40.67142857,81.12,0,73,396.9375,3.952,15.6,0,0,68.328,3,1398.96
+293,Under-graduate,Female,Hosteler,Computer Science,40.67142857,569.4,258.336,31.2,43.8625,3.952,3.9,427.05,3.4476,34.164,2.6,0
+294,Under-graduate,Female,Hosteler,Environmental Science,40.67142857,142.35,258.336,93.6,175.45,40.2325,15.6,427.05,0,34.164,13,0
+295,Under-graduate,Male,Hosteler,Chemical ,40.67142857,40.56,0,146,396.9375,40.2325,15.6,427.05,22.98308064,68.328,6,608.85
+296,Under-graduate,Male,Hosteler,Environmental Science,40.67142857,81.12,0,31.2,43.8625,3.952,3.9,427.05,0,34.164,5.2,642.06
+297,Under-graduate,Female,Hosteler,BBA,40.67142857,142.35,258.336,249.6,529.25,110.96,3.9,0,0,34.164,6,0
+298,Under-graduate,Female,Hosteler,BBA,40.67142857,142.35,0,10.4,132.3125,110.96,109.5,0,24.1995,34.164,18.25,0
+299,Under-graduate,Male,Hosteler,Mechatronics,40.67142857,142.35,258.336,62.4,43.8625,3.952,15.6,0,0,68.328,260,2098.44
+300,Under-graduate,Male,Hosteler,Electrical ,40.67142857,40.56,604.44,73,132.3125,3.952,3.9,0,0,136.656,520,0
+301,Under-graduate,Male,Hosteler,Electrical ,40.67142857,40.56,258.336,31.2,43.8625,18.392,18.15,0,0,68.328,26,0
+302,Under-graduate,Male,Hosteler,Mining,40.67142857,569.4,0,219,1058.5,55.48,18.15,0,80.6617734,34.164,0.6,0
+303,Under-graduate,Male,Hosteler,Mechatronics,40.67142857,101.4,1192.32,292,132.3125,3.952,3.9,0,0,136.656,60,0
+304,Under-graduate,Male,Hosteler,Telecommunications ,40.67142857,81.12,48.438,124.8,56.55,18.392,3.9,0,0,34.164,42.5,0
+305,Under-graduate,Male,Hosteler,Computer Systems,40.67142857,81.12,604.44,73,132.3125,3.952,3.9,427.05,0,34.164,26,418.08
+306,Under-graduate,Male,Hosteler,Mechatronics,40.67142857,40.56,258.336,83.2,18.85,520.125,15.6,4270.5,0,34.164,260,0
+307,Under-graduate,Male,Hosteler,Electrical ,40.67142857,40.56,113.3325,10.4,132.3125,121.3625,3.9,0,0,34.164,520,642.06
+308,Under-graduate,Male,Hosteler,Electrical ,40.67142857,40.56,48.438,62.4,132.3125,3.952,18.15,0,0,68.328,60,0
+309,Under-graduate,Male,Hosteler,Electrical ,40.67142857,81.12,0,20.8,1058.5,40.2325,18.15,0,0,34.164,13,0
+310,Under-graduate,Male,Hosteler,Electrical ,40.67142857,40.56,258.336,62.4,43.8625,3.952,3.9,0,0,34.164,60,0
+311,Under-graduate,Male,Hosteler,Electrical ,40.67142857,40.56,0,93.6,132.3125,3.952,3.9,0,0,34.164,130,0
+312,Under-graduate,Male,Hosteler,Petroleum & Gas Engineering,40.67142857,40.56,1192.32,288,264.625,3.952,3.9,0,0,34.164,85,12.3
+313,Under-graduate,Female,Hosteler,Architecture ,40.67142857,142.35,604.44,73,132.3125,40.2325,15.6,5124.6,0,170.82,3,884.4
+314,Under-graduate,Male,Hosteler,Mining ,40.67142857,142.35,0,62.4,264.625,29.64,3.9,0,0,68.328,30,642.06
+315,Under-graduate,Male,Hosteler,Mechatronics,40.67142857,60.84,48.438,146,132.3125,8.645,18.15,0,0,34.164,0.6,0
+316,Under-graduate,Male,Hosteler,Electrical ,40.67142857,142.35,258.336,144,18.85,242.725,3.9,0,0,34.164,6,0
+317,Under-graduate,Male,Hosteler,Mechatronics,40.67142857,40.56,86.112,288,9.425,242.725,18.15,5124.6,0,34.164,30,0
+318,Under-graduate,Male,Hosteler,Software,40.67142857,81.12,0,20.8,132.3125,3.952,3.9,0,0,34.164,0.6,1605.15
+319,Under-graduate,Male,Hosteler,Computer Systems,40.67142857,142.35,0,146,87.725,520.125,15.6,0,0,136.656,60,0
+320,Under-graduate,Male,Hosteler,Computer Systems,40.67142857,142.35,258.336,146,132.3125,15.808,18.15,427.05,0,136.656,3,0
+321,Under-graduate,Male,Hosteler,Environmental Science,40.67142857,40.56,0,93.6,131.5875,18.392,109.5,4270.5,0,68.328,2.6,0
+322,Under-graduate,Male,Hosteler,Electrical ,40.67142857,142.35,86.112,144,1058.5,18.392,3.9,0,0,34.164,52,0
+323,Under-graduate,Male,Hosteler,CELL,40.67142857,81.12,0,73,132.3125,55.48,54.75,0,0,34.164,18.25,0
+324,Under-graduate,Male,Hosteler,Electrical ,40.67142857,40.56,48.438,62.4,43.8625,8.645,3.9,0,0,68.328,520,160.515
+325,Under-graduate,Male,Hosteler,Civil ,40.67142857,60.84,0,146,132.3125,110.96,54.75,0,0,68.328,18.25,0
+326,Under-graduate,Male,Hosteler,Mechanical ,40.67142857,142.35,0,20.8,87.725,3.952,3.9,0,0,170.82,26,0
+327,Under-graduate,Male,Hosteler,Mechanical ,40.67142857,284.7,0,10.4,87.725,3.952,3.9,0,0,34.164,130,0
+328,Under-graduate,Male,Hosteler,Chemical ,40.67142857,142.35,0,62.4,529.25,55.48,109.5,0,24.1995,68.328,18.25,0
+329,Under-graduate,Male,Hosteler,Civil ,40.67142857,81.12,48.438,93.6,264.625,121.3625,54.75,427.05,16.08788064,136.656,6,0
+330,Under-graduate,Male,Hosteler,Computer Systems,40.67142857,142.35,0,73,132.3125,3.952,3.9,0,0,68.328,260,0
+331,Under-graduate,Male,Hosteler,Chemical ,40.67142857,40.56,1192.32,73,264.625,242.725,109.5,0,0,68.328,4.25,0
+332,Under-graduate,Male,Hosteler,Computer Systems,40.67142857,40.56,113.3325,146,87.725,3.952,109.5,0,0,68.328,26,0
+333,Under-graduate,Male,Hosteler,Computer Science,40.67142857,81.12,48.438,62.4,87.725,121.3625,3.9,427.05,0,170.82,260,4422
+334,Under-graduate,Male,Hosteler,Architecture ,142.35,142.35,1010.88,62.4,43.8625,121.3625,54.75,0,3.4476,68.328,13,0
+335,Under-graduate,Male,Hosteler,Chemical ,94.90000002,81.12,113.3325,144,132.3125,18.392,3.9,0,0,136.656,0.85,0
+336,Under-graduate,Male,Hosteler,Architecture ,56.94,81.12,0,62.4,529.25,40.2325,18.15,0,0,136.656,0.85,0
+337,Under-graduate,Female,Hosteler,Mining,94.90000003,81.12,258.336,62.4,529.25,110.96,54.75,427.05,0,34.164,2.6,1398.96
+338,Under-graduate,Female,Hosteler,Electronics ,47.45,81.12,1192.32,73,132.3125,242.725,15.6,0,0,170.82,13,0
+339,Under-graduate,Male,Hosteler,Mining ,142.35,142.35,86.112,146,264.625,110.96,54.75,0,0,136.656,3,642.06
+340,Under-graduate,Male,Hosteler,Telecommunications ,94.9,81.12,0,62.4,43.8625,242.725,3.9,0,0,34.164,2.6,0
+341,Under-graduate,Male,Hosteler,Electronics ,47.45,284.7,258.336,62.4,87.725,86.2125,18.15,427.05,0,136.656,2.6,642.06
+342,Under-graduate,Female,Hosteler,Computer Science,94.9,142.35,0,10.4,87.725,121.3625,15.6,0,8.04394032,170.82,26,0
+343,Under-graduate,Male,Hosteler,Petroleum & Gas Engineering,71.175,162.24,188.8875,124.8,132.3125,86.2125,18.15,0,22.98308064,136.656,26,0
+344,Under-graduate,Male,Hosteler,Electrical ,56.94,40.56,223.56,10.4,132.3125,3.952,3.9,0,0,34.164,52,0
+345,Under-graduate,Male,Hosteler,Electrical ,142.35,142.35,223.56,288,132.3125,3.952,15.6,0,0,34.164,30,0
+346,Under-graduate,Male,Hosteler,Mining ,47.45,40.56,223.56,144,264.625,34.58,15.6,0,0,34.164,130,6994.8
+347,Under-graduate,Male,Hosteler,Mechatronics,94.9,81.12,258.336,93.6,43.8625,8.645,3.9,0,0,68.328,520,10492.2
+348,Under-graduate,Male,Hosteler,Mechatronics,71.175,40.56,258.336,62.4,264.625,110.96,3.9,0,0,34.164,260,0
+349,Under-graduate,Male,Hosteler,Electrical ,142.35,142.35,48.438,5.2,264.625,55.48,109.5,0,0,34.164,60,0
+350,Under-graduate,Male,Hosteler,Industrial ,47.45,142.35,223.56,144,264.625,18.392,109.5,0,0,68.328,260,160.515
