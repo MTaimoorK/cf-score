@@ -83,8 +83,6 @@ def predict():
             # Return response
             return jsonify({
                 'prediction': round(prediction[0], 2),
-                'top_features': top_features,
-                'input_data': input_df.to_dict(),
                 'shap_values': shap_values[0].tolist(),
             })
 
